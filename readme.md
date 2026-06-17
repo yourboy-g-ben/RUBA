@@ -4,4 +4,3 @@ This is my first repository
 Things I do are
 1. Write code 
 2. Teach and learn programming 
-3. I can be a private programmer.
